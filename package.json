@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-scrollview-updown",
+        "scope": null,
+        "escapedName": "react-native-scrollview-updown",
+        "name": "react-native-scrollview-updown",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/caoguodong/Desktop/资料/学习文件/React-native/swipeUpDownScrollView"
+    ]
+  ],
+  "_from": "react-native-scrollview-updown@latest",
+  "_id": "react-native-scrollview-updown@0.0.1",
+  "_inCache": true,
+  "_location": "/react-native-scrollview-updown",
+  "_nodeVersion": "7.5.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-scrollview-updown-0.0.1.tgz_1498186363982_0.08299270970746875"
+  },
+  "_npmUser": {
+    "name": "caoguodong",
+    "email": "cjellys@126.com"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-scrollview-updown",
+    "scope": null,
+    "escapedName": "react-native-scrollview-updown",
+    "name": "react-native-scrollview-updown",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-scrollview-updown/-/react-native-scrollview-updown-0.0.1.tgz",
+  "_shasum": "831787695aa9c5074da6c0999d0c4dd3004ee92f",
+  "_shrinkwrap": null,
+  "_spec": "react-native-scrollview-updown",
+  "_where": "/Users/caoguodong/Desktop/资料/学习文件/React-native/swipeUpDownScrollView",
+  "author": "",
+  "dependencies": {
+    "react-native-swRefresh": "git+https://github.com/CJELLYS/react-native-swRefresh.git"
+  },
+  "description": "scrollview anmation",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "831787695aa9c5074da6c0999d0c4dd3004ee92f",
+    "tarball": "https://registry.npmjs.org/react-native-scrollview-updown/-/react-native-scrollview-updown-0.0.1.tgz"
+  },
+  "license": "ISC",
+  "main": "./app/homeIndex.js",
+  "maintainers": [
+    {
+      "name": "caoguodong",
+      "email": "cjellys@126.com"
+    }
+  ],
+  "name": "react-native-scrollview-updown",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3"
+}
